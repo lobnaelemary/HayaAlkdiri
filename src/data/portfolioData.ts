@@ -285,7 +285,7 @@ export const PROJECTS: Project[] = [
         captionAr: 'فستان سهرة عاجي متألق من مجموعة همسات العاج',
         captionEn: 'Breathtaking ivory evening gown from Whispers of Ivory'
       },
-
+      
       {
         url: '/assets/img/project/whispers-of-ivory/4.jpg',
         captionAr: 'فستان سهرة عاجي متألق من مجموعة همسات العاج',
