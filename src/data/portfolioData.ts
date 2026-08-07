@@ -91,17 +91,17 @@ export const PROJECTS: Project[] = [
     ],
     images: [
       {
-        url: 'public/assets/img/project/olympia/2.jpg',
+        url: '/assets/img/project/olympia/2.jpg',
         captionAr: 'لوحة التصميم المبدئي والمحاكاة ثلاثية الأبعاد لمشروع أوليمبيا',
         captionEn: 'Initial 3D Fashion simulation render for Olympia project'
       },
       {
-        url: 'public/assets/img/project/olympia/1.jpg',
+        url: '/assets/img/project/olympia/1.jpg',
         captionAr: 'عرض تفاصيل التطريز الذهبي وثنيات القماش الحريري',
         captionEn: 'Detailed view of golden thread embroidery & draped silk pleats'
       },
       {
-        url: 'public/assets/img/project/olympia/3.jpg',
+        url: '/assets/img/project/olympia/3.jpg',
         captionAr: 'إطلالة عصرية متكاملة على منصة العرض الرقمية',
         captionEn: 'Full contemporary runway look in digital environment'
       }
@@ -139,37 +139,37 @@ export const PROJECTS: Project[] = [
     ],
     images: [
       {
-        url: 'public/assets/img/project/marabet-al-ezz/1.jpg',
+        url: '/assets/img/project/marabet-al-ezz/1.jpg',
         captionAr: 'التصميم الرئيسي لمجموعة مرابط العز بالتركيب الهيكلي',
         captionEn: 'Hero garment design for Marabet Al-Ezz with structured accents'
       },
 
       {
-        url: 'public/assets/img/project/marabet-al-ezz/2.jpg',
+        url: '/assets/img/project/marabet-al-ezz/2.jpg',
         captionAr: 'التصميم الرئيسي لمجموعة مرابط العز بالتركيب الهيكلي',
         captionEn: 'Hero garment design for Marabet Al-Ezz with structured accents'
       },
 
       {
-        url: 'public/assets/img/project/marabet-al-ezz/3.jpg',
+        url: '/assets/img/project/marabet-al-ezz/3.jpg',
         captionAr: 'التصميم الرئيسي لمجموعة مرابط العز بالتركيب الهيكلي',
         captionEn: 'Hero garment design for Marabet Al-Ezz with structured accents'
       },
 
       {
-        url: 'public/assets/img/project/marabet-al-ezz/4.jpg',
+        url: '/assets/img/project/marabet-al-ezz/4.jpg',
         captionAr: 'التصميم الرئيسي لمجموعة مرابط العز بالتركيب الهيكلي',
         captionEn: 'Hero garment design for Marabet Al-Ezz with structured accents'
       },
 
       {
-        url: 'public/assets/img/project/marabet-al-ezz/5.jpg',
+        url: '/assets/img/project/marabet-al-ezz/5.jpg',
         captionAr: 'التصميم الرئيسي لمجموعة مرابط العز بالتركيب الهيكلي',
         captionEn: 'Hero garment design for Marabet Al-Ezz with structured accents'
       },
 
       {
-        url: 'public/assets/img/project/marabet-al-ezz/6.jpg',
+        url: '/assets/img/project/marabet-al-ezz/6.jpg',
         captionAr: 'تفاصيل الخياطة الفاخرة والتطريز بالقصب الذهبي',
         captionEn: 'Fine craftsmanship detail and golden thread embroidery'
       }
@@ -207,31 +207,31 @@ export const PROJECTS: Project[] = [
     ],
     images: [
       {
-        url: 'public/assets/img/project/majestic-circus/1.jpg',
+        url: '/assets/img/project/majestic-circus/1.jpg',
         captionAr: 'مظهر درامي متألق من مجموعة سيرك الماجستيك',
         captionEn: 'Dramatic editorial look from the Majestic Circus collection'
       },
       
       {
-        url: 'public/assets/img/project/majestic-circus/2.jpg',
+        url: '/assets/img/project/majestic-circus/2.jpg',
         captionAr: 'مظهر درامي متألق من مجموعة سيرك الماجستيك',
         captionEn: 'Dramatic editorial look from the Majestic Circus collection'
       },
       
       {
-        url: 'public/assets/img/project/majestic-circus/3.jpg',
+        url: '/assets/img/project/majestic-circus/3.jpg',
         captionAr: 'مظهر درامي متألق من مجموعة سيرك الماجستيك',
         captionEn: 'Dramatic editorial look from the Majestic Circus collection'
       },
       
       {
-        url: 'public/assets/img/project/majestic-circus/4.jpg',
+        url: '/assets/img/project/majestic-circus/4.jpg',
         captionAr: 'مظهر درامي متألق من مجموعة سيرك الماجستيك',
         captionEn: 'Dramatic editorial look from the Majestic Circus collection'
       },
       
       {
-        url: 'public/assets/img/project/majestic-circus/5.jpg',
+        url: '/assets/img/project/majestic-circus/5.jpg',
         captionAr: 'لوحة رسم توضيحي رقمي وتجربة الخامات والأبعاد',
         captionEn: 'Digital illustration board experimenting with volume and form'
       }
@@ -269,31 +269,31 @@ export const PROJECTS: Project[] = [
     ],
     images: [
       {
-        url: 'public/assets/img/project/whispers-of-ivory/1.jpg',
+        url: '/assets/img/project/whispers-of-ivory/1.jpg',
         captionAr: 'فستان سهرة عاجي متألق من مجموعة همسات العاج',
         captionEn: 'Breathtaking ivory evening gown from Whispers of Ivory'
       },
 
       {
-        url: 'public/assets/img/project/whispers-of-ivory/2.jpg',
+        url: '/assets/img/project/whispers-of-ivory/2.jpg',
         captionAr: 'فستان سهرة عاجي متألق من مجموعة همسات العاج',
         captionEn: 'Breathtaking ivory evening gown from Whispers of Ivory'
       },
 
       {
-        url: 'public/assets/img/project/whispers-of-ivory/3.jpg',
+        url: '/assets/img/project/whispers-of-ivory/3.jpg',
         captionAr: 'فستان سهرة عاجي متألق من مجموعة همسات العاج',
         captionEn: 'Breathtaking ivory evening gown from Whispers of Ivory'
       },
 
       {
-        url: 'public/assets/img/project/whispers-of-ivory/4.jpg',
+        url: '/assets/img/project/whispers-of-ivory/4.jpg',
         captionAr: 'فستان سهرة عاجي متألق من مجموعة همسات العاج',
         captionEn: 'Breathtaking ivory evening gown from Whispers of Ivory'
       },
 
       {
-        url: 'public/assets/img/project/whispers-of-ivory/5.jpg',
+        url: '/assets/img/project/whispers-of-ivory/5.jpg',
         captionAr: 'تفاصيل تطريز اللؤلؤ والدانتيل على قماش الحرير',
         captionEn: 'Close-up on hand-embroidered pearls and delicate lace'
       }

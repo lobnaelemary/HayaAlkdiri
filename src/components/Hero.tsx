@@ -91,7 +91,7 @@ export const Hero: React.FC<HeroProps> = ({ lang, onOpenContactModal }) => {
               `}</style>
 
               <img
-                src="public/assets/img/haya logo.png"
+                src="/assets/img/haya logo.png"
                 alt="Haya Alkdiri Logo"
                 className="w-full h-full object-contain filter drop-shadow-[0_20px_30px_rgba(123,78,150,0.2)] transition-transform duration-700 hover:scale-105"
                 referrerPolicy="no-referrer"
