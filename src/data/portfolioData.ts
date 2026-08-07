@@ -269,7 +269,7 @@ export const PROJECTS: Project[] = [
     ],
     images: [
       {
-        url: '/assets/img/project/whispers-of-ivory/1.jpg',
+        url: '/assets/img/project/whispers-of-ivory/1.png',
         captionAr: 'فستان سهرة عاجي متألق من مجموعة همسات العاج',
         captionEn: 'Breathtaking ivory evening gown from Whispers of Ivory'
       },
@@ -287,7 +287,7 @@ export const PROJECTS: Project[] = [
       },
       
       {
-        url: '/assets/img/project/whispers-of-ivory/4.jpg',
+        url: '/assets/img/project/whispers-of-ivory/4.png',
         captionAr: 'فستان سهرة عاجي متألق من مجموعة همسات العاج',
         captionEn: 'Breathtaking ivory evening gown from Whispers of Ivory'
       },
