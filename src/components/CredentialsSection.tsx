@@ -99,7 +99,7 @@ export const CredentialsSection: React.FC<CredentialsSectionProps> = ({ lang }) 
           {/* Bottom inside the card: CV Download Button (باللون الطبيعي الخاص بالبراند مثل باقي أزرار الموقع) */}
           <div className="pt-6 border-t border-gray-100 flex items-center justify-end">
             <a
-              href="assets/cv/haya-cv.pdf"
+              href="public/assets/cv/haya-cv.pdf"
               download="haya-cv.pdf"
               className="inline-flex items-center gap-2.5 px-8 py-4 rounded-2xl bg-[#7B4E96] hover:bg-[#583370] text-white font-bold text-xs sm:text-sm shadow-md transition-all group"
             >

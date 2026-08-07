@@ -36,7 +36,7 @@ export const WorkflowSection: React.FC<WorkflowSectionProps> = ({ lang }) => {
         return (
           <div className="relative w-full h-64 sm:h-80 rounded-3xl overflow-hidden shadow-xl border border-[#7B4E96]/20 group">
             <img 
-              src="assets/1.jpg" 
+              src="public/assets/img/1.jpg" 
               alt="Fashion Sketching & Concept" 
               className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
             />
@@ -47,7 +47,7 @@ export const WorkflowSection: React.FC<WorkflowSectionProps> = ({ lang }) => {
         return (
           <div className="relative w-full h-64 sm:h-80 rounded-3xl overflow-hidden shadow-xl border border-[#7B4E96]/20 group">
             <img 
-              src="assets/2.jpg" 
+              src="public/assets/img/2.jpg" 
               alt="3D Simulation & Patterns" 
               className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
             />
@@ -58,7 +58,7 @@ export const WorkflowSection: React.FC<WorkflowSectionProps> = ({ lang }) => {
         return (
           <div className="relative w-full h-64 sm:h-80 rounded-3xl overflow-hidden shadow-xl border border-[#7B4E96]/20 group">
             <img 
-              src="assets/3.jpg" 
+              src="public/assets/img/3.jpg" 
               alt="Fitting & Revisions" 
               className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
             />
@@ -69,7 +69,7 @@ export const WorkflowSection: React.FC<WorkflowSectionProps> = ({ lang }) => {
         return (
           <div className="relative w-full h-64 sm:h-80 rounded-3xl overflow-hidden shadow-xl border border-[#7B4E96]/20 group">
             <img 
-              src="assets/4.jpg" 
+              src="public/assets/img/4.jpg" 
               alt="Final Delivery" 
               className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
             />

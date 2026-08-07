@@ -17,7 +17,7 @@ export const Logo: React.FC<LogoProps> = ({ className = '', size = 'md' }) => {
   return (
     <div className={`inline-flex items-center select-none ${className}`}>
       <img 
-        src="/assets/img/haya logo.png"
+        src="public/assets/img/haya logo.png"
         alt="هيا القديري - مصممة أزياء"
         className={`${sizeClasses[size]} w-auto object-contain drop-shadow-sm`}
       />
