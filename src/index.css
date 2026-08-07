@@ -1,0 +1,45 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --brand-purple: #7B4E96;
+    --brand-purple-dark: #583370;
+    --brand-purple-light: #F4EFF8;
+    --brand-cream: #FAF7F2;
+    --brand-gold: #C5A059;
+  }
+  html { scroll-behavior: smooth; }
+  body {
+    background-color: var(--brand-cream);
+    color: #241A2B;
+    font-family: 'Tajawal', 'Cairo', sans-serif;
+  }
+}
+
+/* Custom Creative Font for Headings */
+h1, h2, h3, .font-lemonada {
+  font-family: 'Lemonada', cursive, sans-serif;
+}
+
+/* Custom Luxury Scrollbar */
+::-webkit-scrollbar { width: 8px; }
+::-webkit-scrollbar-track { background: #FAF7F2; }
+::-webkit-scrollbar-thumb { background: #7B4E96; border-radius: 9999px; border: 2px solid #FAF7F2; }
+::-webkit-scrollbar-thumb:hover { background: #583370; }
+
+.glass-panel {
+  background: rgba(255, 255, 255, 0.85);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(123, 78, 150, 0.15);
+}
+
+h1, h2, h3 {
+  color: #7B4E96 !important;
+  line-height: 1.6 !important;
+}
+
+section {
+  padding-top: 5rem !important;  /* تقريباً 80px بدل الأرقام الكبيرة القديمة */
+  padding-bottom: 5rem !important;
+}
